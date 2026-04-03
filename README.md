@@ -43,5 +43,4 @@ The game compares the user's choice with the computer's choice using a logical p
 
 Kashish Dhawan
 
-Kashish Dhawan
 
